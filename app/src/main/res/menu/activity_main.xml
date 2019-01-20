@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_save" android:title="上传至服务器"></item>
+    <item android:id="@+id/delete_all" android:title="删除全部信息"></item>
+
+</menu>
